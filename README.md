@@ -115,6 +115,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [The One Key to Dealing with Senior Executives: Answer the Question!](https://kellblog.com/2012/01/17/the-one-key-to-dealing-with-senior-executives-answer-the-question/)
  * [Step by step guide to building high performing teams](https://mm-coaches.notion.site/Step-by-step-guide-to-building-high-performing-teams-a1d3c70c031144738943e043933d3267)
  * [Cycle times](https://boz.com/articles/cycle-times) - Andrew Bosworth
+ * [Running a one-on-one with a report](https://www.cheatgrid.com/checklists/engineering-manager/running-a-one-on-one-with-a-report) - CheatGrid *(checklist)*
 
 
 ## Career growth
